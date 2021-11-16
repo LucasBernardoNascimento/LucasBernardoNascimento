@@ -3,7 +3,7 @@
 - 🌱 Atualmente estudando JavaScript, HTML, CSS e ReactJS.
 - 💻 Perfil no LinkedIn: [Lucas Bernardo](https://www.linkedin.com/in/lucas-bernardo-94a587182/)
 
-
+###
 
 <div align="center">
   <a href="https://github.com/LucasBernardoSN">
