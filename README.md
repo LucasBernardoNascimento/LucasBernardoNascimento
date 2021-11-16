@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🌱 Atualmente estudando JavaScript, HTML, CSS e ReactJS.
+- 🌱 Atualmente estudando JavaScript, HTML, CSS, TypesScript e ReactJS.
 - 💻 Perfil no LinkedIn: [Lucas Bernardo](https://www.linkedin.com/in/lucas-bernardo-94a587182/)
 
 ###
